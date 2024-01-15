@@ -1,4 +1,4 @@
-### Hi my name is Valerii Kharchenko and I am Systems Integration Specialist
+### Hi my name is Valerii Kharchenko
 
 <!--
 **VKharchenko2272/VKharchenko2272** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
