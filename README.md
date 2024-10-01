@@ -16,7 +16,7 @@
 
 ### About Me:
 
-Hello! I'm Valerii Kharchenko, a passionate tech enthusiast and aspiring leader in the tech industry. With a strong background in software development, I specialize in creating efficient, user-friendly applications using modern technologies like Java, React, .NET, and MySQL. I'm currently focused on honing my skills in full-stack development and aiming to become a CEO in the future. I believe in the power of technology to transform lives and strive to build solutions that make a positive impact on society.
+Hello! I'm Valerii Kharchenko, a passionate tech enthusiast and aspiring leader in the tech industry. With a strong background in software development, I specialize in creating efficient, user-friendly applications using modern technologies like Java, React, .NET, and MySQL. I'm currently focused on honing my skills in full-stack development and aiming to become a CEO in the future.
 
 ### Let's Connect:
 - 📧 vkharchenko2272@gmail.com  
